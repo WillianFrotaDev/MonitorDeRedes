@@ -1,4 +1,3 @@
-#Programa Receptor de Mensagens Do Celular Principal#
+#Programa Monitor de Redes#
 
-Sempre quis conseguir ver as notificações de dois celulares ao mesmo tempo
-Dessa forma eu não ficaria por fora de nada que acontece. Além de tornar um celular sem chip utilizavel
+É um programa que terá a função de monitorar quem esta na rede conectada junto ao seu dispositivo.
